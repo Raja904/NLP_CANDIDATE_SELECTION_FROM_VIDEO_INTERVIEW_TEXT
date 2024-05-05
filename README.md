@@ -17,8 +17,8 @@ This project focuses on analyzing sentiment data from video interviews to aid in
 
 ## How to Use
 1. Clone the repository to your local machine.
-2. Open the `notebooks` directory and run the `sentiment_analysis.ipynb` notebook to perform sentiment analysis and calculate sentiment percentages.
-3. Explore the correlation between sentiment scores, time-related attributes, and speech characteristics in the `correlation_analysis.ipynb` notebook.
+2. Open the `notebooks` directory and run the `Emotion_analysis.ipynb` notebook to perform sentiment analysis and calculate sentiment percentages.
+3. Explore the correlation between sentiment scores, time-related attributes, and speech characteristics in the `Transcript_analysis.ipynb` notebook.
 
 ## Installation
 To run the notebooks, you'll need Python 3.x and the following libraries:
